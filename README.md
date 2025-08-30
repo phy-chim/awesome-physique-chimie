@@ -164,6 +164,9 @@ L'objectif n'est pas de créer une liste exhaustive, mais de rassembler des ress
 - *[Nom de la ressource](lien) - Description.*
 
 ### Physique et Chimie avec un Smartphone
+*VDO.ninja : Captation et projection d'expériences (smartphone → vidéoprojecteur)*
+-   [https://vdo.ninja/ — VDO.Ninja (streaming P2P vidéo pour navigateur)](https://vdo.ninja/) - Description : permet d'envoyer le flux vidéo d'un smartphone, d'une tablette ou d'un autre poste vers un navigateur (ou OBS) en temps réel, sans nécessité d'application native. Idéal pour filmer une expérience sur la paillasse du professeur et projeter le flux sur le vidéo‑projecteur via l'ordinateur de la salle.
+
 *Applications (luxmètre, sonomètre, analyse vidéo...) et protocoles utilisant les capteurs des téléphones.*
 - *[Nom de la ressource](lien) - Description.*
 
